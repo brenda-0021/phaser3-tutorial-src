@@ -1,4 +1,4 @@
-# Birdie Bounce: Juego de Plataformas
+# Juego de Plataformas
 
 Este es un juego de plataformas desarrollado siguiendo el tutorial de Phaser, utilizando **HTML**, **CSS** y **JavaScript**. En este juego, el jugador controla a un pequeño personaje, _Dude_, que debe brincar a través de plataformas, recolectar estrellas y esquivar una bomba para ganar puntos. El juego incluye un menú de _Game Over_, donde el jugador puede optar por volver a intentarlo y mejorar su puntuación.
 
